@@ -1,6 +1,6 @@
 # k8s-deployment---rollback
 we are doing k8s deployment and then rollback it.
-#refer YAML file in repo
+#refer YAML file in repo \n
 **Step** 1: Create the Deployment
 kubectl create -f deployment-definition.yaml
 Sample Output:
